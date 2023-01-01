@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "날씨 조회 서비스",
+  "name": "날씨를 조회해보세요.",
   "icons": [
     {
       "src": "favicon.ico",
